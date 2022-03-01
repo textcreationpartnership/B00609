@@ -1,0 +1,757 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rheol o gyfarwyddyd iw harfer wrth ymweled ar clâf.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1629</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00609</idno>
+            <idno type="STC">STC 20952</idno>
+            <idno type="STC">ESTC S94886</idno>
+            <idno type="EEBO-CITATION">56572915</idno>
+            <idno type="OCLC">ocm 56572915</idno>
+            <idno type="VID">181016</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00609)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181016)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2154:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rheol o gyfarwyddyd iw harfer wrth ymweled ar clâf.</title>
+               </titleStmt>
+               <extent>[32] p.   </extent>
+               <publicationStmt>
+                  <publisher>gan Thomas Harper.,</publisher>
+                  <pubPlace>A Brintywyd yn Llundain :</pubPlace>
+                  <date>1629..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title within ornamental border (McK. &amp; Ferg. 133β); initials.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signatures: A-D⁴.</note>
+                  <note>Reproduction of original in: National Library of Wales.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="wel">wel</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sick --  Prayer-books and devotions --  Welsh --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Sian M. E.</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Sian M. E.</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="wel">
+      <front>
+         <div rend="roman" type="half_title">
+            <pb facs="tcp:181016:1"/>
+            <pb facs="tcp:181016:1"/>
+            <p>RHEOL O gyfarwyddyd iw harfer wrth ym<g ref="char:EOLhyphen"/>weled ar Clâf.</p>
+            <p>
+               <figure>
+                  <figDesc>decorative border</figDesc>
+                  <q>NON VI SED VIRTUTE</q>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div rend="blackletterType" type="rite">
+            <pb facs="tcp:181016:2"/>
+            <pb facs="tcp:181016:2"/>
+            <head rend="roman">Rheol o gyfarwyddyd im harfer wrth ymweled ar Clâf.</head>
+            <p rend="italic" ana="#role_rubric">Yr offeiriad ar i fynediad cyntafir lle y byd<g ref="char:EOLhyphen"/>do y Clâf yn gorwedd a ddywed.</p>
+            <!-- end of rubric -->
+            <q>
+               <p>TAngneddyf fyddo yn y ty hwn, ac i bawb y ſydd yn trigo ynddo, <hi rend="roman">Amen.</hi>
+               </p>
+            </q>
+            <p rend="italic" ana="#role_rubric">Yno gan neſſau at y Clâf y goſtwng efe ar ei liniau at ſawl oll a fyddo gydag ef, ac a ddywed.</p>
+            <!-- end of rubric -->
+            <floatingText xml:lang="wel" type="Pater_Noster_and_Kyrie">
+               <body>
+                  <opener rend="roman">Gweddiwn.</opener>
+                  <p>
+                     <lb/>Arglwydd trugarhâ wrthym.
+<lb/>Chriſt trugarhâ wrthym.
+<lb/>Arglwydd trugarhâ wrthym.</p>
+                  <p>
+                     <seg rend="decorInit">E</seg>In Tâd yr hwn wyt yn y nefoedd. Sancteiddier dy enw. Deued dy deyrnas. Bîd dy ewyllys ar y ddaiar megis y mae yn y nefoedd. Dyro i ni heddyw ein bara beu<g ref="char:EOLhyphen"/>nyddiol. Amaddeu i ni yn dyle<g ref="char:EOLhyphen"/>dion fel y maddeuwn ni in dyledwyr. Ac nac
+<pb facs="tcp:181016:3"/>
+arwain ni i brofedigaeth: Eithr gwared ni rhag drwg. Canys ti biau 'r dernas, a'r nerth, a'r goginiant yn oes oeſoedd, <hi rend="roman">Amen.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <div type="prayers">
+               <head>Gweddiau dros y Clâf.</head>
+               <floatingText xml:lang="wel" type="prayer_s">
+                  <body>
+                     <div type="prayer">
+                        <p>
+                           <seg rend="decorInit">O</seg> Arglwydd Ddûw Holl-alluog yr hwn nid wyt yn dirmygn ochnei<g ref="char:EOLhyphen"/>diau calonnau drylliog cyſtuddi<g ref="char:EOLhyphen"/>eddig, derbyn yn gweddiau yrhai yr ydym yn eu<g ref="char:cmbAbbrStroke">̄</g> hoffrwn i'th ddwy<g ref="char:EOLhyphen"/>wol fawredd: Edrych i lawr atto<g ref="char:EOLhyphen"/>lwg i ti ar dy waſanaeth-wr hwn ſydd ofidûs gan ddolur. Bydd iddo yn dŵr amddiffin yn erbyn holl ruthrau ei elynnion: Ti biau obri<g ref="char:EOLhyphen"/>odoldeb, ô Arglwydd, yn waſtad drugarhau ac iachau y rhai drylliedig ô galon: Arglwydd at<g ref="char:EOLhyphen"/>tolygwn i ti ddanfon iddo ddiddanwch dy gymmorth yn ei gyfingderan hyn, mal pa vn bynnag a wnêl a'i byw ai marw, y llawenycho ynot ti, trwy Ieſu Griſt eni Arglwydd, <hi rend="roman">Amen.</hi>
+                        </p>
+                     </div>
+                     <div type="prayer">
+                        <head>Vn arall.</head>
+                        <p>
+                           <seg rend="decorInit">O</seg> Arglwydd edrych i lawr o'r ne<g ref="char:EOLhyphen"/>foedd, golyga. ymwel, ac eſmuy<g ref="char:EOLhyphen"/>tha ar dy wâs clwyfus hwn. E<g ref="char:EOLhyphen"/>drych arno à golwg dy druga<g ref="char:EOLhyphen"/>redd Dyro iddo gyſſur, a diogel ymddiried ynot, amdd ffin êf rhag perigl y ge<g ref="char:EOLhyphen"/>lyn, a chadw êf mewn tangneddyf dragwyddol, a diogelwch, trwy Ieſu Griſt ein Harglwydd, <hi>Amen.</hi>
+                        </p>
+                     </div>
+                     <div type="prayer">
+                        <pb facs="tcp:181016:3"/>
+                        <head>Gweddi aral.</head>
+                        <p>
+                           <seg rend="decorInit">D</seg>Uw yr vnig noddfa ymmhôb an<g ref="char:EOLhyphen"/>ghenion a chyfingderau, yr vnig gymmorth yn amſer gwendid a lleſcedd, derbyn attolwg ein gweddiau goſtyngedig, y rhai'r y<g ref="char:EOLhyphen"/>dym yn eu hoffrwm gar dy fron tros dy waſanaethwr clwyfus hwn: ymwel ag ef o Achubudd bendigedig megis yr ymw<g ref="char:EOLhyphen"/>elaiſt ag Ezechias, â mam gwraig Petr, ac â gwâs y Captaen: felli ymwel a dyro i'r Clâf hwn ei gynnefin iechyd od yw dy fendigedig ew<g ref="char:EOLhyphen"/>yllys a'th fodlonrhwydd di, neu ddyro iddo râs i gymeryd felly dy ymweliad, fel y bo iddo yn ôl diweddu y fuchedd boenedig hon, allu gor<g ref="char:EOLhyphen"/>phywys gyd â thi yn y fuchedd dragwyddol twry Ieſu Griſt, i'r hwn gyd a'r Tâd a'r Yſpryd glân y byddo pob gallu, a gogoniant ag Ar<g ref="char:EOLhyphen"/>glwyddiaeth yr awr' honag yu dragwyddol, <hi>A<g ref="char:EOLhyphen"/>men.</hi>
+                        </p>
+                     </div>
+                     <div type="prayer">
+                        <head>Gweddi arall.</head>
+                        <p>
+                           <hi rend="roman">O</hi> Arglwydd IESU GRIST yr hwn ywt iechyd pob dyn byw, a by<g ref="char:EOLhyphen"/>wyd tragwyddol yrhai ydynt yn marrw mewn ffydd, nyni dy oſtyngedig weiſion we<g ref="char:EOLhyphen"/>di ymgynnull ymma gan fôd yn ddiogel ge<g ref="char:EOLhyphen"/>nym na all y peth a orchmynner ith ddwylo di fôd yn golledig ydym yn gorchymyn i ti o ne<g ref="char:EOLhyphen"/>fol Dâd dy waſanaethwr ymma ſydd ofidus gan ddolur: gan attolwg iti gryfhau ei enaid ef
+<pb facs="tcp:181016:4"/>
+yn erbyn po<g ref="char:cmbAbbrStroke">̄</g>b mâth ar brofedigaethau, ai gadw ai amddiffin rhag holl gynllwynion Diafol: nid oes ynddo ddim haedde digaethau, na dim arall iw roddi troſto neu hyder arno, ond yn vnig dy ddirfawr a'th dyner drugareddau di. Fe ath aned ti Arglwydd trugarog er ei fwyn ef: Ti â weddiaiſt, ac â ymprydiaiſt er ei fwyn ef: Ti â bregethaiſt ac â athrawiaethaiſt er ei fwyn ef: Ti â newynaiſt ac â ſychedaiſt er ei fwyn ef: Ti â wnaethoſt bob gweithredoedd da er ei fwyn ef: Ti â ddioddefaiſt boenau anguriol, ac arteitheau: Ac yn ddiweddaf a roddaiſt dy werthfawroccaf gorph i farw, a'th waed iw dywalle ar y groes er ei fwyn êf. Yr awrhon, o Arglwydd, yr awr'hon o dru<g ref="char:EOLhyphen"/>garoccaf Achubwr, bydded yr holl bethau hyn yn fuddiol ac yn dycciamus, yrhui a roddaiſt ti iddo, yr hwn a roddaiſt hyd yn oed dyhun tro<g ref="char:EOLhyphen"/>ſto. Golched a glanhaed dy waed ti aflendid a brynti ei bechodau ef, bydded dy gyfiawnder di yn cuddio ac yn gorchguddio ei anghy fiawnder ef: Bydded haeddedigaethau dy ddiodde<g ref="char:EOLhyphen"/>faint chwerw yn iawn tros ei bechodau ef. Dyro iddo râs na byddo ffydd ac iechydwri<g ref="char:EOLhyphen"/>aeth yn dy werthfawroccaf waed byth yn am<g ref="char:EOLhyphen"/>heûs ac yn pallu ynddo, ond bôd yn gadarn ac yn ddiyſcog: na leſcao gobaith o druga<g ref="char:EOLhyphen"/>redd a bywyd tragwyddol byth ynddo ef: nad oero cariad byth ynddo: Ac yn ddiwed<g ref="char:EOLhyphen"/>daf, na orchfyger gwendid y cnawd gan ofn marwolaeth Caniadha, o caniadha druga<g ref="char:EOLhyphen"/>roccaf Achubwr pan fwrio angeu y cêl tros
+<pb facs="tcp:181016:4"/>
+lygaid ei gorph ef, allu o lygaid ei enaid graffu yn ddiyſcog ac edrych arnat ti: pan ddygo angeu oddiwrtho ei barabl, ai leferydd er hyn<g ref="char:EOLhyphen"/>ny allu'oi galon lefain a dywedyd, i'th ddwylo di Arglwydd y gorchmynnâf fy enaid. Felly Arglwydd Ieſu tyred yn fuan, <hi>Amen, Amen.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="exhortation">
+               <head>Ymaddroidion cyſſurol a myfyrdodau iw hadrodd wrth y Clâf gan yr Offeiriad yn ſefyll yn ei ymyl.</head>
+               <q>
+                  <p>GAredig frawd (neu chwaer) y mae yn rhaid i ti yſtyried fod Duw yn danfon y cerydd hwn ar dy gorph megis med<g ref="char:EOLhyphen"/>diginiaeth i iachau dy enaid, drwy dy gym<g ref="char:EOLhyphen"/>mell di (yr hwn wyt <abbr>glaf</abbr> o bechod) i ddyfod trwy edifeirwch at Griſt y meddig i feddi<g ref="char:EOLhyphen"/>giniaethu dy enaid. Y mae yn rhaid iti yſſy<g ref="char:EOLhyphen"/>ried nad yw y clefyd trymma ar a allech i odef ddim iw gyffelybu ar poenau, ac a'r ar<g ref="char:EOLhyphen"/>teithiau a ddioddefodd Ieſu Griſt dy Achu<g ref="char:EOLhyphen"/>bwr troſot. Ac am hynny gan iddo ef ddi<g ref="char:EOLhyphen"/>oddef cymmaint dros dy brynnedigaeth di, dy ddylêd titheu iw ddwyn yn oddefus ychy<g ref="char:EOLhyphen"/>dig glefyd iw fodlonr ynteu. Ti â ddylit go<g ref="char:EOLhyphen"/>fio fod dy glywf a'th ddolur pan fo mwyaf ei angerdd yn llai o lawer nag a haeddodd dy bechodau Canys dy gydwybod dy hun a ddywaid iti haeddu o honot ar law dduw waeth na'r hyn yr wyt yn awr ynei oddef: Yllyriaeth o hyn a ddylei ddyſcu iti ymatt<g ref="char:EOLhyphen"/>al rhag grwgnach ac anfodlonrhwydd yn erbyn Duw, ond wrth ſymied dy amryw ath
+<pb facs="tcp:181016:5"/>
+aml bechodau rhoddi mawr ddiolch iddo na ddialeddir arnat â choſpedigathau trym<g ref="char:EOLhyphen"/>mach o lawer. Meddwl mor ewyllyſgar fyd. dei yrhai damnedig yn vffern i oddef y boen iwyaf ſydd arnat ti tros fil o flynyddoed, tan ammod bôd iddynt obaith yn vnig o eſmw<g ref="char:EOLhyphen"/>ythdrâ oddiwrth ei poenau tragwyddol yn ôl cynnifer o flynyddoedd. Gan hynny gan mai trugaredd Dduw ydiw gael o honot yn hytrach dy geryddu na'th ddifetha, ti a ddy<g ref="char:EOLhyphen"/>lit ddwyn yn oddefus ei goſpedigaeth amſe<g ref="char:EOLhyphen"/>rol ef oherwydd yr amcanfryd yw dy achub oddiwrth ddamned gaeth dragwyddol. Y mae yn rhaid iti feddwl nad oes dim yn d'gwyddo iti yn yr achoſion hyn ond y cyfriw bechau ac a dd gwyddodd fynychaf i'th frodyr yn<g ref="char:EOLhyphen"/>ghriſt, y rhai ag hwy yn weiſion auwyi a ffyddlon i Ddûw tra fuont fyw yma ar y ddaiar, ydynt yn awr yn Seintiau gwynfy<g ref="char:EOLhyphen"/>dedig, a gogoneddus gyd ag ef yn y nefoedd, megis <hi>Iob, Dafydd, Ioſeph, Lazarus</hi> ac eraill. Hwy â fuont tros amſer yn griddfan tan y cyffelib faich, ond y maent hwy yr awr hon weddi eu gwaredu oddiwrth ei holl drueni, trallodau, ac adfydwch. Ac felly yn yr vnffunyd cyn ne<g ref="char:cmbAbbrStroke">̄</g>mawr o ddyddiau (os arhoſi yn oddefgar wrth yr Arglwydd) ith rydheir ditheu hefyd o'th glwyf a'th ddolur, naill ai trwy roddi i ti dy gynefin iechid fel i <hi>Iob</hi> gynt, neu (yr hyn ſydd well o lawer) drwy dy dderbyn megis <hi>Lazarus</hi> ir orphwysfa nefol: Yn ddiweddaf cofia na roddes Dûw mo honot yn nwylo dy gaſeion
+<pb facs="tcp:181016:5"/>
+i'th goſpi, eithr efe (dy Dâd earedig) a'th geryd<g ref="char:EOLhyphen"/>da ai drugarog law ei hûn. Y brenin Dafydd wedi cael ar ei ddymuniad ddewis ei goſpedi<g ref="char:EOLhyphen"/>gaeth ei hûn, a ddewiſodd dderbyn ei gerydd ar law Dduw yn hyttrach nag mewn môdd arall yn y bŷd, gan ddywedyd: Gâd i mi ſyrthio yn awr yn llaw yr Arglwydd (canys aml yw eu drugareddau ef) fel na chwympwyt yn llaw dŷn; Ac am hynny ych dylêd chwi yw cymerûd y cyſtûdd hwn yn groeſawys gan ei fôd yn dy<g ref="char:EOLhyphen"/>fôd oddiwrth law Ddûw, oddiwrth yr hwn nyni â wyddom nad oes dim ond daioni yn dy<g ref="char:EOLhyphen"/>fod. Dy gyſtudd hwn ſydd yn dyfod oddiwrth law dy nefol Dâd, yrhwn nis danfonei byth oni bai ei fôd yn gweled mai anghenrhaid, a buddi<g ref="char:EOLhyphen"/>ol yw i ti.</p>
+                  <p>Yn ail y mae yn rhaid i ti yſtyried oddiwrth pa ddrygau ac aflwydd y daw marwolaeth i'th achub ac i'th ryddhau. Yn gyntaf, hi a'th rydd<g ref="char:EOLhyphen"/>hâ oddiwrth gorph llygradwy yr hwn a gaed mewn pechod, ac ni ddichon wneuthur dim amgen ond pechu. Yn ail hi a'th ryddhâ oddi<g ref="char:EOLhyphen"/>wrth dy ymcanion ofer, a'th fwriadau anfuddi<g ref="char:EOLhyphen"/>ol, yrhai ydynt ddrygionus bob amſer, a daro<g ref="char:EOLhyphen"/>ſtyngedig i aflendid, rhagrith meluſwidd, ſwyddymgais, gwâg-ogoniant drwg-fwriad, dial, cybydd-dra, trachwant, meddwdod, an<g ref="char:EOLhyphen"/>ghymedrolder, tyngu, annuwioldeb, balchder, gorthrymder, a mil or cyffelyb drueni, a'r rhain y trallodir ein eneidiau truein tra yr arhoſant o fewn carchar-dai ein cyrph. Yn drydydd, marwolaeth ath rhydda di rhag pechu, ac a wna ddiben ar bob adfydwch a ddigwydd i be<g ref="char:EOLhyphen"/>chod,
+<pb facs="tcp:181016:6"/>
+yn gymmaint ag yn ôl marwolaeth in bydd dim triſtid mwyach, na llefain, ac ni bydd dim dolur mwy, canys Dûw a ſych ym<g ref="char:EOLhyphen"/>maith bob deigr oddiwrth ein llygaid. Yn bedwerydd drwy farwolaeth i'th ddidolir od<g ref="char:EOLhyphen"/>d wrth gyfeillach dynion drygionus ac in phr<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſwyll mwy ym <hi>Meſheck,</hi> ac ni thrigi ym mhebyll <hi>Cedar.</hi> Ac yn ddiweddaf oll, lic mae yn corph helbulus yma yn byw mewn byd o ddrygioni, yn gymmaint ac na ddichon yr enaid truan edrych allan ar llygad, na gwran<g ref="char:EOLhyphen"/>do ar giuſt, na chyffwrdd ar llaw, nac aroglau ar ffroenau, nac archwaethu ar tafod yn ddy<g ref="char:EOLhyphen"/>berigl, rhag digwyddo iddo ryw brofedigaeth, neu lygrediaeth bydded hyſpys iti y gwaredir dy enaid trwy farwolaeth rhag y caethiwed y<g ref="char:EOLhyphen"/>ma ac y gwrſcir dy gorph llygradrwy ag anlly<g ref="char:EOLhyphen"/>gredigaeth, ar marwol hwn ag anfarwolaeth. O dedwydd a thraddedwydd yw'r farwolaeth honno yn yr Arglwoydd yr hon an gwareda od<g ref="char:EOLhyphen"/>diwrth fŷd mor <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rygonus ac anrhyddâ od<g ref="char:EOLhyphen"/>diwrth y cyfryw gorph o gaethiwed a liygre<g ref="char:EOLhyphen"/>digaeth.</p>
+                  <p>Yn drydydd y mae yn rhaid iti yſtyried pa leſâd â ddŵg marwolaeth dduwiol. Yn gyn<g ref="char:EOLhyphen"/>taf hi â ddwg dy enaid i fwynhau cyfundeb digyfrwng gyd a'r fendigedig Drindod mewn tragwyddol ddedwyddwch a gogoniant. Yn ail, hi a droſgiwydda dy enaid allan o drueni y byd hwn, ac odd wrth gymdeithas pechaduri<g ref="char:EOLhyphen"/>aid i ddmas y Duw byw y <hi>Hieruſalem</hi> nefol, a chymanfa llawer myrddiwn o Angylion ac a yſprydoedd y cyfiawn, ac at Ieſu cyfryngwryt
+<pb facs="tcp:181016:6"/>
+Teſtament newydd. Ac yn drydydd, marwo<g ref="char:EOLhyphen"/>laeth a ddyru dy enaid mewn cwbl-gyflawn feddiant or holl etifeddiaeth a'r dedwydd a a<g ref="char:EOLhyphen"/>ddawodd Chriſt iti yn ei air, neu a bwrcaſodd troſot ai waed. Dyma 'y lleſâd ar dedwyd<g ref="char:EOLhyphen"/>dwch i'r hwn ith dwg marwolaeth fendigedig. Ac am hynny da fydd iti pan neſao amſer dy y<g ref="char:EOLhyphen"/>madawiad, yn ewyllyſcar ac yn llawen orchy<g ref="char:EOLhyphen"/>myn a rhoddi dy enaid i gadw i ddwylo Ie<g ref="char:EOLhyphen"/>ſu Griſt dy vnig Iachawdwr a'th brynnwr.</p>
+               </q>
+            </div>
+            <div type="prayer">
+               <p rend="italic" ana="#role_rubric">Wedi gorphen y cyngor, yr Offeiriad, ar gynnlleid<g ref="char:EOLhyphen"/>fa gyd ag ef, a benliniant ac a weddiant mal hyn.</p>
+               <!-- end of rubric -->
+               <q>
+                  <p>
+                     <hi rend="roman">O</hi> Drugarog Dâd yr hwn ywt Arglwydd a rhoddwr bywyd, ag ir hwn y perthyn dîgwyddiadau marwolaeth, nym dy blant wedi ymgynnull yma ynghyd, ydym yn cydnabod nad y'm ni deilwng oherwydd ein amrafael bechodau i ofyn ar dy ddwylaw ddim bendith i ni ein hunain chwaethach bod yn er<g ref="char:EOLhyphen"/>fynwyr tros eraill at dy fawredd di: Etto o herwydd gorchymmyn o honot i ni weddio tros ei gilydd, yn enwedig tros y Clâf, ac a addewaiſt y byddeigweddiau y Cyfiawn yn gy<g ref="char:EOLhyphen"/>meradwy gyd â thi. Gan hynny mewn vfydd<g ref="char:EOLhyphen"/>dod ith orchymmyn ac ymddiried yn dy ra<g ref="char:EOLhyphen"/>ſlawn addewid yr ydym yn hyderu bôd yn eiri<g ref="char:EOLhyphen"/>olwyr goſtyngedig at dy dduwrol fawredd tros hwn yma ein anwyl frawd (neu chwaer) yr hwn yr ymwelaiſt ag ef a choſpedigaeth dy da<g ref="char:EOLhyphen"/>dol law dy hûn gan attolwg i ti er mwyn Ieſu Griſt, ac er haeddedigaeth ei ofidusfarwolaeth
+<pb facs="tcp:181016:7"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb facs="tcp:181016:7"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb facs="tcp:181016:8"/>
+ai ddioddefaint (yr hwn a ddioddefodd efe tro<g ref="char:EOLhyphen"/>ſto ef) bardynu â maddeu iddo ei holl bechodau, yn gyſtad y pechod hwnnw ym mha vn y lluni<g ref="char:EOLhyphen"/>wyd ac y gaued ef ar holl gamweddau ar tro<g ref="char:EOLhyphen"/>feddau, y rhai erioied hyd y dydd hwn ar awr â wnaeth ar feddwl, gair, neu gweithred, yn erbyn dy ddwmol fawredd. Tafl hwynt y<g ref="char:EOLhyphen"/>maith or tu cefn i ti O Arglwydd bwrw hwynt oddrwrthit cyn belled ag ywr dwyrain oddi<g ref="char:EOLhyphen"/>wrth y Gorllewm. Gollwng hwynt tros gôf, na ddyro hwynt iw erbyn ef. Golch hwynt y<g ref="char:EOLhyphen"/>maeth yngwaed Criſt fel nas gweler mwyach, a gwared ef oddiwrth yr holl farnedigaethau dyledus iddo am ei bechodau, na byddont mwy yn cythryblu ei gydwybod, nac yn codi mewn barn yn erbyn ei enaid, a chyfrif iddo gyfiawnder Ieſ. Criſt drwy'r hwn yr ymddangoſo efe yn gyfi awn yn dy olwg di. Ac yn ei ddirfawr ofid ar hyn o amſer O Arglwydd, ymch wanega ei ffydd, ac naill ai yſcafnhâ ei ddolur, neu ddyro iddo ymch<g ref="char:EOLhyphen"/>waneg o amynedd i oddef dy wynfydedig ewyl<g ref="char:EOLhyphen"/>lys di ath fodlonrhwydd; Ac na ddyro arno Arglwydd daionus amgenach baich nac y gal<g ref="char:EOLhyphen"/>lo drwy r nerth a roddech di iddo yn hawdd ei ddwyn. Cyfot ef i fynu attat dy hun ag oche<g ref="char:EOLhyphen"/>neidiau a griddfan anhraethadwy. Gwna id<g ref="char:EOLhyphen"/>do yn awrgydnabod beth iw gobaith ei alwedi<g ref="char:EOLhyphen"/>gaeth, a pheth yw rhagorol fawredd dy druga<g ref="char:EOLhyphen"/>redd athnerth tuag at yrhai â gredant ynot, ac yn ei wend d ef dangos di O Arglwydd dy nerth. Oh achubei enaid ef a cherydda Sa<g ref="char:EOLhyphen"/>tan a gorchymmyn i'th Angelion ſanctaidd gaſtellu o'i amgylch iw amddeffyn yn erbyn
+<pb facs="tcp:181016:8"/>
+pob drwg fwriadau a phrofedigaethau, ac i yr<g ref="char:EOLhyphen"/>ru ymath ym mhell oddiwrtho bôb mâth ar y<g ref="char:EOLhyphen"/>ſprydion drygionus, a mweidus: <abbr>Par</abbr> iddo fwy-fwy gaſâu y bŷd ymma, a deiſyfu ei ddatod a bôd gyd â Chriſt. A phan ddêl yr awr ddaio<g ref="char:EOLhyphen"/>nus honno y bwriedaiſt di alw am dano allan or bywyd preſennol hwn dyro iddo tâs i or<g ref="char:EOLhyphen"/>chymmyn ei enaid yn heddychol ac yn llawen i'th drugarog ddwylo di, a derbyn ef ith dru<g ref="char:EOLhyphen"/>garedd, a dyged dy Angelion gwynfydedig ef i'th deyrnas nefol, yno i ganu mawl a chau<g ref="char:EOLhyphen"/>niadau yſprydol i'th enw bendiged'g gyd a'r gwynfydedig Saint a'r Angelion yn dragy<g ref="char:EOLhyphen"/>wydd, <hi>Amen.</hi>
+                  </p>
+               </q>
+            </div>
+            <div type="credal_interrogation">
+               <div type="part">
+                  <p rend="italic" ana="#role_rubric">Yna yr Offeiriad yn ſefyll i fynu â ddwg ar gof ir dyn Clâf y. 5. peth hyn ſydd yn canlyn.</p>
+                  <!-- end of rubric -->
+                  <q>
+                     <p>YN gyntaf, na ddaeth Criſt i alw y cy<g ref="char:EOLhyphen"/>fiawn ond pechadûriaid i edifeirwch; mai pechadur yw efe, ac am hynny y daeth iw alw ef.</p>
+                     <p n="2">2 Yn ail, mae Criſt oedd wîr oen Duw yr hwn a ddaeth i dynnu ymmaith bechodau'r byd: fôd ynddo ef bechodaû lawer, ac am hynny y daeth i dynnu ymmaith yr eiddo ef.</p>
+                     <p n="3">3 Yn drydydd, fôd Criſt yn nodded i bawb a'r y ſydd yn flinderog, ac yn l'wythog: mai blinderog yw efe, ac am hynny fôd Criſt yn nod<g ref="char:EOLhyphen"/>ded iddo.</p>
+                     <p n="4">4 Yn bedwerydd, mai Criſt yw yn cyfiawn<g ref="char:EOLhyphen"/>derm ac yn agos at bawb â alwo arno, ei fôd
+<pb facs="tcp:181016:9"/>
+efe yn awr yn galw, ac amhynny fôd Chriſt yn agos atro ef.</p>
+                     <p n="5">5 Yn bummed, os byw y mae, byw y mae ir Arglwydd, os marw y mae marw y mae ir Ar<g ref="char:EOLhyphen"/>glwydd, pa vn bynnag â wnêl ai byw ai marw, eiddo yr Arglwydd ydyw.</p>
+                  </q>
+               </div>
+               <div type="part">
+                  <p rend="italic" ana="#role_rubric">FFûrf ar gyffes iw harfer ir Clâf ar ddull ymofynion, o ba rai y pwngc cyntaf ſy ynghylch proffes (neu gyfad<g ref="char:EOLhyphen"/>defiad) ein ffydd, ar ail ynghylch cyffeſſu pechodau.</p>
+                  <!-- end of rubric -->
+                  <p>
+                     <label>Quæſtiwnau ynghylch ffydd.</label>
+                  </p>
+                  <q>
+                     <p>AWyt ti yn credu yn Nuw Tâd Holl-alluog Creawdwr nêf a daiar? Ac yn Ieſu Griſt ei vn mâb ef ein Harglwydd? A'i genhedlu or yſpryd glân? a'i cnio Fair for<g ref="char:EOLhyphen"/>wyn? Iddo ddioddef tan Pontius Pilatus, ei groeſhoelio, ei farw, a'i gladdu? Deſcyn o ho<g ref="char:EOLhyphen"/>naw i vffern, a'i gyfodi y trydydd dydd ac eſcyn ir nefoed, a'i fôd yn eiſtedd ar ddeheu-law ddûw Tâd Holl-alluog: ac odd yno y daw efe yn ni<g ref="char:EOLhyphen"/>wedd y byd i farnu byw a meirw? A wyt ti yn credu yn yr yſpryd glân, yr Eglwys lân Gatho<g ref="char:EOLhyphen"/>lic, Cymmun y Sainct, maddeuaint pechodau, Adgyfodiad y Cnawd, a bywyd tragwyddol gwedi angeu?</p>
+                  </q>
+                  <p>
+                     <label>Atteb.</label>
+                  </p>
+                  <q>
+                     <p>Hyn oll yr wyf yn ei gredu yn ddilys.</p>
+                  </q>
+               </div>
+               <div type="part">
+                  <q>
+                     <list>
+                        <item n="1">1 A ydych chwi yn cyfaddeu i'r Holl-alluog Ddûw wneuthur ohonoth gamweddau dir<g ref="char:EOLhyphen"/>fawr, a gorthrwn drwy ych holl einioes?</item>
+                        <item n="2">2 A ydych chwi yn cydnabod bechu o honoch mewn balchder calon, gan fod yn anniolarhgc
+<pb facs="tcp:181016:9"/>
+i roddwr pob daioni am ei ddonniau?</item>
+                        <item n="3">3 A ydych chwi yn cydnabod bechu o honoch drwy falchder mewn dillad, balchder o gryfder, glendid pryd, cyfoeth, a'ch bôd am hynny yn go<g ref="char:EOLhyphen"/>fyn i Ddûw faddeuaint?</item>
+                        <item n="4">4 Bechu o honoch drwy genfigen wrth gly<g ref="char:EOLhyphen"/>wed canmol, neu wybod fod yn caru rhyw vn a<g ref="char:EOLhyphen"/>rall yn fwy na chwychwi am yr hyn yr ydych yn gofyn i Dduw faddeuaint?</item>
+                        <item n="5">5 Ddarfod ichwi bechu drwy lîd, a cheiſio ymddial, wedi ymgyffroi yn ddiachos, am yr hyn yr ydych yn gofyn i Dduw faddeuaint?</item>
+                        <item n="6">6 Bechu o honoch drwy ddiogi, drwy drym<g ref="char:EOLhyphen"/>der meddwl, mewn gwâg feddyliau ac oferfw<g ref="char:EOLhyphen"/>ridau, drwy eſceuluſo gweddi, a myfyrdod, am yr hyn yr ydych yn gofyn i Dduw faddeuaint?</item>
+                        <item n="7">7 Ddarfod i chwi bechu drwy gybydd dra, drwy chwant anghyfreithlawn i gyfoeth, a go<g ref="char:EOLhyphen"/>lûd bydol, ac na thoſtûriaſoch wrth gyflwr true<g ref="char:EOLhyphen"/>niaid megis y dylaſech, am yr hyn yr ydych yn llefain ar Dduw am faddeuaint?</item>
+                        <item n="8">8 Bechu o honoch drwy annigonol fwytta ac yfed, drwy fynych ormodded, am yr hyn yr y<g ref="char:EOLhyphen"/>dych yn gofyn i Dduw faddeuaint?</item>
+                        <item n="9">9 Bechu o honoch drwy aflendid buchedd, meddyliau anniwair ac ymadroddion ſerth an<g ref="char:EOLhyphen"/>foeſawl, am yr hyn yr ydych yn gofyn i Dduw faddeuaint?</item>
+                        <item n="10">10 Na ddarfu i chwi gynghori y rhai oedd arnynt ciſieu cyngor, ddyſcu yr anwybodus a maddeu ir ſawl a wnaethant ich erbyn; am yr hyn yr ydych yn llefain ar Dduw am fadde<g ref="char:EOLhyphen"/>uaint?</item>
+                        <pb facs="tcp:181016:10"/>
+                        <item n="11">11 Ddarfod i chwi bechu drwy droſeddu y dêg gorchymmyn, na charaſech Dduw yn fw<g ref="char:EOLhyphen"/>yaf dim, ac na addolaſoch ef yn ddiledrith, ac na anrydeddaſoch ei enw ſanctaidd, eithr ai cym<g ref="char:EOLhyphen"/>meraſoch yn ofer ar lwon diddefnydd, na chad<g ref="char:EOLhyphen"/>waſoch yn ſanctaidd ei Sabbothau ef, ac na ro<g ref="char:EOLhyphen"/>eſoch ddyledus barch i'ch rhieni, a'ch lywodra<g ref="char:EOLhyphen"/>ethwyr, chwi a ddugaſoch ddigaſedd dybryd ac a fuoch fyw yn anniwair, chwi a ddy gaſoch dda eich cymmydog â enllibiaſoch ei enw da ef, ac a chwenychaſoch yr hyn oedd wrthwyneb i gyfraith Dduw; am yr hyn oll yr ydych chwi yr awr' hon yn gofyn i Dduw faddeuaint?</item>
+                        <item n="12">12 A ydych chwi yn cydnabod na ddarfu i chwi arfer donniau yr yſpryd glân i anrhydedd Duw, dawn deall, dawn cyngor, dawn doethi<g ref="char:EOLhyphen"/>neb, dawn cadernid, dawn gwybodaeth, dawn ofn; am yr hyn yr ydwyt yn gofyn i Dduw fad<g ref="char:EOLhyphen"/>deuaint?</item>
+                     </list>
+                  </q>
+                  <p rend="italic" ana="#role_rubric">I'r qwæſtiwnau ymma a ofynno yr offeiriad, atte<g ref="char:EOLhyphen"/>bed y dyn clâf gan ddywedyd ar ei ôl ef mal hyn.</p>
+                  <!-- end of rubric -->
+                  <p>
+                     <label>Atteb y Clâf.</label>
+                  </p>
+                  <q>
+                     <p>AM yr holl bechodau a'r camweddau hyn, neu bôb mâth a'r bechod arall gwybode<g ref="char:EOLhyphen"/>dig neu guddiedig a wneuthym erioed er pan i'm ganed hyd y dydd heddiw yr wyf fi a chalon edifeiriol yn gofyn i Dduw faddeuaint, ac yn attolwg iddo fyngwared rhag fyngelyn yſprydol a maddeu imi fy holl bechodau trwy ryglyddon ei fâb Ieſu Griſt fy vnig Iachaw<g ref="char:EOLhyphen"/>dwr
+<pb facs="tcp:181016:10"/>
+a'm Pryndwr, yn enew yr hwn y gweddiaf megis i'm dyſcodd. <hi>Ein Tâd yr hwn wyt yn y ne<g ref="char:EOLhyphen"/>foedd, &amp;c.</hi>
+                     </p>
+                  </q>
+               </div>
+            </div>
+            <div type="prayer">
+               <p rend="italic" ana="#role_rubric">Yna y gweddia yr Offeiriad mal hyn.</p>
+               <!-- end of rubric -->
+               <q>
+                  <p>GWrandawed yr Arglwydd arnat yn nydd cyfngder, Enw Duw Iacob a'th amd<g ref="char:EOLhyphen"/>deffynno. Anfoned iti gymorth or cyſ<g ref="char:EOLhyphen"/>ſegr, a nerthed di o Sion. Rhodd<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d it wrth fodd dy galon, a chyflawned dy holl arfaeth. Ymddiried rhai mewn cerbydau, ac eraill mewn meirch, ond nyni a gofiwn enw yr Ar<g ref="char:EOLhyphen"/>glwydd ein Dûw. Cadw Arglwydd. gwran<g ref="char:EOLhyphen"/>dawedy bremn nefol arnom yn y dydd y llefom. Goſoded yr Ieſu mâb Duw byw ei ddiodde<g ref="char:EOLhyphen"/>faint ei hûn rhwng dy bechodau di, ar barnedi<g ref="char:EOLhyphen"/>gaethau i ddyfod, <hi rend="roman">Amen.</hi>
+                  </p>
+               </q>
+            </div>
+            <div type="confession">
+               <p rend="italic" ana="#role_rubric">Wedi gorphen y weddi yr offeiriad a â rhagddo yn ei gwæſtiwnau, ac a ofyn ir dyn Clâf fel hyn.</p>
+               <!-- end of rubric -->
+               <q>
+                  <p>AYdwyt ti o eigion dy galon yn ewyllyſio ymgymmodi a Duw yn Ieſu Griſt ei wynfededig fâb ef a'th fendigedig Achu<g ref="char:EOLhyphen"/>bwr ditheu a'th gyfrwngwr: yr hwn ſydd yr awr' hon yn eiſtedd ar ddeheu-law Dduw yn y nefoedd ac yn eiriol arno ef tros dy enaid ti?</p>
+               </q>
+               <q>
+                  <p>
+                     <label>Atteb.</label> 
+                     <hi>Ydwyf.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>A wyt ti in in credu yn ddiammeu, ac yn go<g ref="char:EOLhyphen"/>beithio bôd yadwedig drwy vning haeddedigae<g ref="char:EOLhyphen"/>thau
+<pb facs="tcp:181016:11"/>
+y far wolaeth a'r dioddefaint gwaedlyd a ddioddefodd dy Iachewdwr Ieſu Griſt troſot? heb fod gennit ddun gobaith Iechydwriaeth yn dy ryglyddon dy hyn, nac mewn cyfryngau e<g ref="char:EOLhyphen"/>raill, neu mewn creaduriaid? drwy fod yn gwbl<g ref="char:EOLhyphen"/>ſicer gennit, nad oes vn enw arall tan y nêf drwy'r hwn y mae yn rhaid dy iachau, ond enw Ieſu Griſt?</p>
+               </q>
+               <q>
+                  <p>
+                     <label>Atteb.</label> 
+                     <hi>Ydwyf.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>A wyt ti o eigion dy galon yn maddeu pob ſy<g ref="char:EOLhyphen"/>rhaed, a chamwedd, a wnaed neu a gynnigwyd iti gan nêb rhyw ddŷn?</p>
+               </q>
+               <q>
+                  <p>
+                     <label>Atteb.</label> 
+                     <hi>Ydwyf.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>A wyf ti yn fodlongâr ac o ewyllys dy ga<g ref="char:EOLhyphen"/>lon yn gofyn maddeuaint i'r ſawl y gwnae<g ref="char:EOLhyphen"/>thoſt gam a hwynt mewn moddd yn y byd ar feddwl, gair, neu weithred?</p>
+               </q>
+               <q>
+                  <p>
+                     <label>Atteb.</label> 
+                     <hi>Ydwyf.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>A wyt ti yn bwrw allan oth galon bob drwg<g ref="char:EOLhyphen"/>fwriad, a digaſedd a ddeliaiſt yn erbyn nêb, fel y gallech ymddangos ger bron Ieſu Griſt mewn cariad perffaith a chymmodlonedd?</p>
+               </q>
+               <q>
+                  <p>
+                     <label>Atteb.</label> 
+                     <hi>Ydwyf.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>A yw yn ddrwg gan dy galon droſeddu o ho<g ref="char:EOLhyphen"/>not gyfreithiau a gorchmynnion Dûw, eſceu<g ref="char:EOLhyphen"/>luſo ei ddwywol waſanaeth ef a'i addoliant, a chanlyn cymmaint ar drachwantau dy gnawd dy hun, ac oferddigrifwch y byd?</p>
+               </q>
+               <pb facs="tcp:181016:11"/>
+               <q>
+                  <p>
+                     <label>Atteb.</label> 
+                     <hi>Y mae yn ddrwg gennif.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>A fyddit ti fyw o hyn allan yn dduwiolach, ac yn ſancteidiach, pe rhy<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gei bodd i Dduw e<g ref="char:EOLhyphen"/>ſlyn dy enoies?</p>
+               </q>
+               <q>
+                  <p>
+                     <label>Atteb.</label> Gwnawn drwy nerth Dûw.</p>
+               </q>
+               <p rend="italic" ana="#role_rubric">Yma yr Offeiriad a rybuddia y Claf i fod yn wili<g ref="char:EOLhyphen"/>adwrus, ac yn ddyfal i wrando ac i gredu y peth a ddywedo ef wrtho fel hyn.</p>
+               <!-- end of rubric -->
+               <q>
+                  <p>ANwyl frawd bydded hyſpys iti, mai Gwenidog Ieſu Griſt wyfi, ac vn o'r rhai y rhoes Criſt iddynt wemdogawl allû, ac awdurdod, i'th ollwng yn rhydd oddiwrth dy bechodau trwy rym yr awdurdod yr hwn ſydd yn ddywedyd: I bwy bynnag y maddeuoch ei pechodau, maddeuwyd iddynt, I bwy bynnag ir atalioch hwy a attallwyd.</p>
+                  <p>Gwybydd gan hynny (Garedig frawd) os yw y broffes fydd a wnaethoſt yn bur, ac yn fywiol: a'r gyffes a wnaethoſt o'th bechodau yn dyfod o'th galon yn edifeiriol ac yn ddiragrith yna y bydd y geiriau a adroddwyt wrthit yn y fan yn tueddu yn iniawnwir ac yn ddiball i'th iechy<g ref="char:EOLhyphen"/>dwriaeth dragwyddol. Atteb fi gan hynny â yw dy fydd yn fywiol, a'th edifeirwch yn gywir ac yn ddiledrith?</p>
+               </q>
+               <q>
+                  <p>
+                     <label>Atteb.</label> Yr wyf fi yn credu yn ddiymmod holl byngci<g ref="char:EOLhyphen"/>au y ffydd Griſtianogol: ac y mae yn ddrwg gennyf o eigion fynghalo<g ref="char:cmbAbbrStroke">̄</g> tros fy holl bechodau.</p>
+               </q>
+            </div>
+            <div type="absolution">
+               <pb facs="tcp:181016:12"/>
+               <p rend="italic" ana="#role_rubric">Yna y geſyd yr Offeiriad ei lawddehau ar ben y dyn Clâf ac y traetha iddo y gollyngdod hwn.</p>
+               <!-- end of rubric -->
+               <q>
+                  <p>EIn Harglwydd Ieſu Griſt yr hwn â ada<g ref="char:EOLhyphen"/>wodd feddiant iw Eglwys i ollwng pob pechadûr a fyddo gwir-cdifeiriol ac yn cre<g ref="char:EOLhyphen"/>du ynddo ef o'i fawr drûgaredd a faddeuo iti dy gamweddau: a thrwy ei awdurdod ef a gani<g ref="char:EOLhyphen"/>adhawyd i mi i'th ollyngaf o'th holl bechodau yn enw'r Tâd, a'r mâb, a'r yſpryd glân, <hi>Amen.</hi>
+                  </p>
+               </q>
+               <p rend="italic" ana="#role_rubric">Yn ôl y gollyngdod y dyry yr Offeiriad i'r Clâf Oſcu<g ref="char:EOLhyphen"/>lum Pacis (guſen tangneddyf) gan ddywedyd.</p>
+               <!-- end of rubric -->
+               <q>
+                  <p>YR Arglwydd Ieſu a gatwo dy gorph a'th e<g ref="char:EOLhyphen"/>naid i fywyd tragwyddol, <hi>Amen.</hi>
+                  </p>
+               </q>
+            </div>
+            <div type="collect">
+               <floatingText xml:lang="wel" type="prayer_s">
+                  <body>
+                     <opener>Gweddiwn.</opener>
+                     <p>
+                        <hi>O</hi> Drugaroccaf Dduw yr yn ôl lluo<g ref="char:EOLhyphen"/>ſaw gwrydd dy drugaredd ywt felly yn dueupechodau y rhai ſydd wîr edi<g ref="char:EOLhyphen"/>feiriol, fel nad ydwyt yn eu cofio mwy, agor lygad dy drugaredd ar dy waſanaethwr y<g ref="char:EOLhyphen"/>ma, yr hwn o wîr ddifrif ſydd yn dymuno gol<g ref="char:EOLhyphen"/>lyngdod a maddeuaint. Adnewydda ynddo ga<g ref="char:EOLhyphen"/>redig Dâd beth bynnac a leſcawyd trwy ddichell a malis y cythraul, neu drwy ei gnawdol ewyl<g ref="char:EOLhyphen"/>lys ei hun ai wendid. Cadw a chynnal yr aelod clwyfus hwn o fewn vndeb dy Eglwys: Yſtyria wrth ei wir edifeirwch, derbyn ei ddagrau, yſce<g ref="char:EOLhyphen"/>fnhâ
+<pb facs="tcp:181016:12"/>
+ei ddolur môdd i gwelech di fôd yn orau ar ei lês: Ac yn gymmaint ai fôd ef yn rhoddi cwbl o'i ymddiried yn vnig yn dy drugaredd di, na liwia iddo ei bechodau or blaen, eithr cym<g ref="char:EOLhyphen"/>mer ef i'th nodded trwy ryglyddon dy garedic<g ref="char:EOLhyphen"/>caf fâb Ieſu Criſt, <hi>Amen.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="exhortation">
+               <p rend="italic" ana="#role_rubric">Darfyddo ir Offeiriad mal hyn gyflawni ei ſwydd yn cymmodi y dyn Clâf â Duw ynghriſt, yn neſſa peth efe a ddylei ei gynghori ef fel cynghorodd <hi>Eſay, Ezechias,</hi> i oſod i dy mewn trefn drwy wneuthur ei ewyllys, ai lythr Cymmun onis gwnaethpwyd euſys, ac ynghyloh hynny o beth ydywed yr Offeiriad wrth y dyn Clâf fel y canlyn.</p>
+               <!-- end of rubric -->
+               <q>
+                  <p>ANwyl frawd, dy gynghori yr wyf i w<g ref="char:EOLhyphen"/>neuthur dy ewyllys cyn i'th glefyd drym<g ref="char:EOLhyphen"/>hau, ac ith gof wanhau. Ni wna hynny nath bellhau di oddiwrth dy dda, na byrrhau dy enioes ddim cynt, ond yſcafnhau llawer ar dy fiddwl drwy dy ryddhau o lawer o drafferth pen fyddo rheitiaf iti gael llonyddwch. Oblegit dar<g ref="char:EOLhyphen"/>fyddo vnwaith goſod dy dŷ mewn trefn, e fydd haws iti oſod dy enaid mewn trefn, <abbr>ac</abbr> ymgym<g ref="char:EOLhyphen"/>mwyſo i gymeryd dy daith tu ar wlâd nefol.</p>
+                  <p>Anwyl frawd, o chynyſcaeddodd Duw dydi ag helaeth rwydd o dda bydol y mae yn ddyle<g ref="char:EOLhyphen"/>dus arnat yn arwydd oth ddiolchgarwch i Dduw fôd yn haelionus ac yn ſyber wrth y tlawd. Oherwydd y neb a roddo i'r tlawd ſydd yn rhoddi echwyn i'r Arglwydd; ac o herwydd mai bendigedig yw'r dyn a roddo i'r tlawd ar
+<pb facs="tcp:181016:13"/>
+anghenus, yr Arglwydd ai gwared ef yn am<g ref="char:EOLhyphen"/>ſer trallod. Yr Arglwydd ai ceidw ac ai byw<g ref="char:EOLhyphen"/>hâ, gwynfydedig fydd ar y ddaiar: ni ddyru yr Arglwydd ef wrth ewyllys ei elynion. Yr Ar<g ref="char:EOLhyphen"/>glwydd a'i nertha ef ar ei glâf wely, ac a gywei<g ref="char:EOLhyphen"/>ria ei holl wely ef yn ei glefyd, fel y tyſtiolaetha yr yſpryd glân.</p>
+                  <p>Anwyl frawd os dy gydwybod a ddwg ar gôf iti gymmeryd o honot ddim trwy drawſder, a'th fod yn ei attal rhag-llaw oddiar wraig weddw, neu blant ymddifaid, neu oddiar nêb arall pwy bynnac fyddo, bydded diogel iti hyn, os tydi nis teli drachefn fel gwnaeth <hi>Zaccheus</hi> i'r gwir ber<g ref="char:EOLhyphen"/>chennog y da, a'r tîr â ddygaiſt (o bydd cym<g ref="char:EOLhyphen"/>maint ar dy helw) ni elli wir edifarhau. ac heb wir edifeirwch, ni elli fod yn gadwedig, nac e<g ref="char:EOLhyphen"/>drych ar Griſt yn ei wyneb pan ymddangoſech ger bron ei orſeddfaingc ef. Yſtyria beth a wnelych; oblegyd y mae dy iechydwriaeth yn gaeth ac mewn enbydrwydd o ran y pwngc hwn.</p>
+               </q>
+            </div>
+            <div type="prayers">
+               <p rend="italic" ana="#role_rubric">Y Clâf wedi mal hyn eſmwythau ar ei gydwybod drwy wneuthur ei lywodraeth a chael gollyngdod o'i be<g ref="char:EOLhyphen"/>chodau, yr Offeiriad â ddylei ei gyngori i gymeryd y Sacrament bendigedig o ſwpper yr Arglwydd iw ga<g ref="char:EOLhyphen"/>darnhau ef ei ffydd, a gwanhau y Cythraul yn ei gyn llwynion: gan mai y Sacrament hwn yw megis y gei<g ref="char:EOLhyphen"/>lw Cymmanfa gyngor Nicen ef Viaticum ymdeith<g ref="char:EOLhyphen"/>fwyd yr enaid ar ei ffordd ir nefoedd. Wedi darfod y Cymmun aed yr Offeiriad rhagddo yn ei weddiau fel y mae yn canlyn.</p>
+               <!-- end of rubric -->
+               <q>
+                  <p>
+                     <pb facs="tcp:181016:13"/>
+                     <hi>O</hi> Argwlydd Dduw yr hwn orchmyn<g ref="char:EOLhyphen"/>naiſt i mweddio tros ei gilydd yn gyſtal mewn clefyd ac iechyd gan addaw ben<g ref="char:EOLhyphen"/>dith yn y cyfingderau mwyaf, nyni bechaduriaid truein ydym yn ymddangos ymma ger bron dy fawredd di tros dy waſanaeth wr gofidus hwn ymweledig gan dy law di: Attolygwn iti Ar<g ref="char:EOLhyphen"/>glwydd daſonus ſelio a ſiccrhau yn ei galon ef drwy dylân yſpryd faddeuaint o'i holl bechodau. Pâr i feluſchwaith a phereidd flâs ffydd fywi<g ref="char:EOLhyphen"/>ol ddiflaſu a laru ar yr holl lygredigaethau a<g ref="char:EOLhyphen"/>flan ſydd ynddo fei i byddo ei enaid ai gorph we<g ref="char:EOLhyphen"/>di ei breſentio iti yn bûr ac yn ddifrycheulyd yn<g ref="char:EOLhyphen"/>gwaed dy Fâb. Arglwydd na ddyro yn ei erbyn ef yr hyn a ddywedodd neu a wnaeth ar fai eri<g ref="char:EOLhyphen"/>oed drwy holl yſtod ei fywyd; eithr dercha ef mewn gobaith: Dywaid yn gyſſŷrus wrth ei e<g ref="char:EOLhyphen"/>naid, arwain ef drwy dy yſpryd i dryſſordŷ dy drugareddau. Cymmer ymmaith oddiwrtho ddychryn, a thrymder marwolaeth. Gwrthneba gynllwynion ei elynnion yſprydol yrhai a ymo<g ref="char:EOLhyphen"/>ſodaſant o amgylch ogylch iddo: Dyro iddo nerth yn erbyn rhuthrau y cythraul fel y caffo fuddugoliaeth berffaith. Bydded y gwybodaeth o honot ti yr awr' hon yn ffrwythlawn ynddo, ac yn fuddiol iddo. Cryfhâ ei ffydd ef fel y gallo gael gwîr edifeirwch, a chyflawni tu ag attat vfydd-dod dyledus, a diolchgarwch diragrith am beth bynnac â vſodech arno. Dyro iddo (O Arglwydd) brawf o'th ogoniant ac o'r llawe<g ref="char:EOLhyphen"/>nydd â baratoaiſt iddo, mal drwy gyſſur oddi<g ref="char:EOLhyphen"/>wrtho
+<pb facs="tcp:181016:14"/>
+y gallo ymdrechu ymdrech têg gangadw y ffydd, a phan ddêl amſer ei ymadawiad, ym<g ref="char:EOLhyphen"/>wrthod yn cwyllyſgar a'r byd preſennol drygi<g ref="char:EOLhyphen"/>onus hwn, a byw gyd a thi yn dragywydd. Ca<g ref="char:EOLhyphen"/>madhâ hyn o Arglwydd er mwyn Ieſu Griſt ein vnig Arglwydd a'n Iachawdwr, <hi>Amen.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>ORaſuſaf Arglwydd a charediccaf Dâd, yr hwn wyt weithiau yn rhoddi iechyd i beri i ni yn well dy gydnabod di a'th ym<g ref="char:EOLhyphen"/>geledd tu ag attom, weithiau yn danfon clefyd i'n galw yn ôl i well-hau yn buchedd darfyddo i ni bechu yn dy erbyn: nyni dy oſtyngedig wei<g ref="char:EOLhyphen"/>ſion, tros dy waſanaethwr hwn, a phawb era<g ref="char:EOLhyphen"/>ill a gyſtuddir mal hyn, ydym yn attolwg i ti yn oſtyngedig na ddwg ef ir farn dôſt am ei fu<g ref="char:EOLhyphen"/>chedd a'i helynt â aeth heibio, eithr gan goſto dy drugaredd maddeu iddo ei bechodau, a thrwy yr iawn a dalodd dy fâb rhyddhâ ef odd wrth dy farnedigaethau. Yſcafnhâ, o Arglwydd, yr holl gyſingderau y rhai a ddichon nau a i gorthrym<g ref="char:EOLhyphen"/>der ei bechodau wrth ei cofio, neu chŵerwoer ei ofidiau wrth i dioddef, neu ddichell y gelyn cyf<g ref="char:EOLhyphen"/>fredin, neu ofn marwolaeth eu dwyn arno, ac na ddôd mwy arno, o Arglwydd, na ddôd mwy arno nag â allo ei ddwyn. Dywed yn gyſſurus wrth ei enaid ef fel y gwnaechoſt i'r rhai oll â geiſiaſant ei iechyd corphorol gennit ti. Cy<g ref="char:EOLhyphen"/>farwydda, a chynnyrefa ei galon ef idder<g ref="char:EOLhyphen"/>byn y Tadol gerydd ymma, a'r graſlawn ym<g ref="char:EOLhyphen"/>weliad mewn amynedd, ffydd, cuſſur, a gwir ddaroſtyngeiddrwydd i'th wynfededig ewyllys
+<pb facs="tcp:181016:14"/>
+i fyw, neu i farw. Goſot, o Arglwydd wrth enaid dy greadur truan hwn ſancta<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d ac ia<g ref="char:EOLhyphen"/>chus feddiginiaethau dioddefaint, marwo<g ref="char:EOLhyphen"/>laeth, ac adgyfodiad dy fâb, yn erbyn dychryn, ofn, gwendid, petruſedd, ac annobaith. Cym<g ref="char:EOLhyphen"/>mer ymmaith oddiwrtho angerdd ei ddolur<g ref="char:punc">▪</g> e<g ref="char:EOLhyphen"/>mwythâ ef ofidiau, cyw<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iriaeiwely, ſych ef holl ddagrau odd wrth ei lygaid, ac yſcafnhâ ar ei gydwybod gythryblus. Cyſſura ef ar awr ei ymadawiad pan alwech am dano, agor iddo ddryſau trugaredd, lleda dy freichiau iw dder<g ref="char:EOLhyphen"/>byn i'th nodded fel pan ddê yr amſer, yr elo iw fedd mewn heddwch gan ymgynual wrthit ti mewn ſiccrwydd o râd-faddeuaint am ei holl bechodau, a gobaith o adgyfodiad wynfydedig. Ac yn y cyfamſer, o Arglwydd, gwaſtadhâ ei ſynwyrau ef fel na byddont yngwibio, neu yn traws-redegan i gynnyrfiadau afreolus. Cadw iddo ei gôf yn ddiball fel nath anghofiodi, ond beunydd a phôb awr meddwl o honaw am da<g ref="char:EOLhyphen"/>nat yr hwn wyt angor ei ddiogelwch ef. Cadw ei dafod rhag ymleferydd a gwâg ſiaradach, a'i galon rhag pob dychryn, ac amddeffyn ef tan dy adenydd Bydd drûgarog wrthym ni y rhai megis cyd-aelodau yſtyriol or vn corph ydym yn addolf dy enw ſanctaid, ac yn dymuno dy ddwywol gymmorthith waſanaethwr hwn; a dyſced yr Eſampl ymma i ni fwy goſtyngei<g ref="char:EOLhyphen"/>ddrwydd, ofn, a pharch, tu ag attat ti yr awr hon ac yn dragywydd. Gwrando ein gweddiau, o Arglwydd, er mwyn Ieſu Griſt, <hi>Amen.</hi>
+                  </p>
+               </q>
+            </div>
+            <div type="litany">
+               <pb facs="tcp:181016:15"/>
+               <p rend="italic" ana="#role_rubric">Ymodd y gorchymmyn yr Offeiriad y dyn Clâf i ddwylaw Duw, fel y canlyn.</p>
+               <!-- end of rubric -->
+               <q>
+                  <p>DVw Tâd yr hwn a'th greawdd, Dûw fâb yr hyn a'th brynnodd, Dûw yr yſpryd glân yrhwn a dywalleodd ei rad ynot a'th gymmor<g ref="char:EOLhyphen"/>tho yn dy holl brofedigaethau, ac a'th dywyſo ar hyd y ffordd i dangneddyf tragywyddol.</p>
+               </q>
+               <q>
+                  <p>
+                     <label>Atteb.</label> 
+                     <hi>Amen.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>Criſt yr hwn â fû farw troſot a'th gatŵo rhag pob drwg.</p>
+               </q>
+               <q>
+                  <p>
+                     <label>Atteb.</label> 
+                     <hi>Amen.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>Criſt yr hwn a'th brynnodd, a'th gryfhao ym mhôb profedigaethau.</p>
+               </q>
+               <q>
+                  <p>
+                     <label>Atteb.</label> 
+                     <hi>Amen.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>Criſt yr hwn a'th garodd mor anwyl a dru<g ref="char:EOLhyphen"/>garhao wrthit.</p>
+               </q>
+               <q>
+                  <p>
+                     <label>Atteb.</label> 
+                     <hi>Amen.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>Criſt Ieſu yr hwn â gyfododd oddiwrth y meirw y trydydd dydd â gyfodo dy gorph a'th enaid yn adgyfodiad y cyfiawn.</p>
+               </q>
+               <q>
+                  <p>
+                     <label>Atteb.</label> 
+                     <hi>Amen.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>Criſt yr hwn ſydd yn eiſtedd ar ddeheulaw Dûw yn y nefoedd, a'th dygo i lawenydd tra<g ref="char:EOLhyphen"/>gwyddol.</p>
+               </q>
+               <q>
+                  <p>
+                     <label>Atteb.</label> 
+                     <pb facs="tcp:181016:15"/>
+                     <hi>Amen.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>Dûw Tâd ath caiwo, ac a'th ymgeleddo; Dûw fâb a'th gymmortho, ac a'th nertho: Yſ<g ref="char:EOLhyphen"/>pryd bendigedig yr Arglwydd Ddûw, yr yſpryd glân fyddo gyd a thi: y Drindod gyſſegr-lân a'th gynnorthwy mewn enioes ac angeu.</p>
+               </q>
+               <q>
+                  <p>
+                     <label>Atteb.</label> 
+                     <hi>Amen.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>Dûw â ganiadhao iti le ym monwes Abra<g ref="char:EOLhyphen"/>ham.</p>
+               </q>
+               <q>
+                  <p>
+                     <label>Atteb.</label> 
+                     <hi>Amen.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>Dûw â ganiadhao iti weled dy Achubwr bendigedig mewn cyflwr gogoniant.</p>
+               </q>
+               <q>
+                  <p>
+                     <label>Atteb.</label> 
+                     <hi>Amen.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>Duw â ganiadhao fôd dy farwolaeth yn werthfawr yn ei olwg ef, yn yr hwn y mae i ti orphywys yn dragywydd.</p>
+               </q>
+               <q>
+                  <p>
+                     <label>Atteb.</label> 
+                     <hi>Amen.</hi>
+                  </p>
+               </q>
+               <p rend="italic" ana="#role_rubric">Aed yr Offeiriad rhagddo fel y canlyn, gan ddywedyd.</p>
+               <!-- end of rubric -->
+               <q>
+                  <p>DRugaroccaf Dâd yr ydym yn gorchym<g ref="char:EOLhyphen"/>myn iti dy wâs hwn, gwaith dy ddwy<g ref="char:EOLhyphen"/>law dy hun: yr ydym yn gorchymmyn iti ei enaid ef yn rhyglyddon Criſt Ieſu ei bryn<g ref="char:EOLhyphen"/>nwr. Derbyn o Arglwydd, dygreadur dy hun: maddeu attolwg beth bynnac â droſeddwyd drwy wendid dynol: A gorchymmyn i'r Ange<g ref="char:EOLhyphen"/>lion ei ddwyn ef i dir tragwyddol râs.</p>
+               </q>
+               <pb facs="tcp:181016:16"/>
+               <q>
+                  <p>
+                     <label>Atteb.</label> 
+                     <hi>Amen.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>Cadw Arglwydd enaid dy wâs fel y cedwaiſt <hi>Noah</hi> yn y diluw.</p>
+               </q>
+               <q>
+                  <p>
+                     <label>Atteb.</label> 
+                     <hi>Amen.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>Cadw o Arglwydd enaid dy wâs fel y ced<g ref="char:EOLhyphen"/>waiſt <hi>Lot</hi> rhag tân <hi>Sodom.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>
+                     <label>Atteb.</label> 
+                     <hi>Amen.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>Cadw o Arglwydd enaid dy wâs fel y ced<g ref="char:EOLhyphen"/>waiſt <hi>Iob</hi> yn ei holl adfyd.</p>
+               </q>
+               <q>
+                  <p>
+                     <label>Atteb.</label> 
+                     <hi>Amen.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>Cadw o Arglwydd enaid dy wâs fel y ced<g ref="char:EOLhyphen"/>waiſt yr <hi>Iſraeliaid</hi> rhag nerth <hi>Pharaoh</hi> a gor<g ref="char:EOLhyphen"/>thrymder yr <hi>Aeipht.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>
+                     <label>Atteb.</label> 
+                     <hi>Amen.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>Cadw o Arglwydd enaid dy wâs rhag y<g ref="char:EOLhyphen"/>ſtryw Satan fel y cedwaiſt <hi>Ddafydd</hi> rhag ei holl elynnion.</p>
+               </q>
+               <q>
+                  <p>
+                     <label>Atteb.</label> 
+                     <hi>Amen.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>Cadw o Arglwydd enaid dy wâs fel y ced<g ref="char:EOLhyphen"/>waiſt <hi>Ddaniel</hi> rhag ſafn y llewod.</p>
+               </q>
+               <q>
+                  <p>
+                     <label>Atteb.</label> 
+                     <hi>Amen.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>Cadw o Arglwydd enaid dy wâs fel y ced<g ref="char:EOLhyphen"/>waiſt y tri llangc rhag y fflammau tanllyd.</p>
+               </q>
+               <q>
+                  <p>
+                     <label>Atteb.</label> 
+                     <hi>Amen.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>
+                     <pb facs="tcp:181016:16"/>Cadw o Arglwydd enaid dy wâs fel y ced<g ref="char:EOLhyphen"/>waiſt <hi>Elias</hi> rhag y gau brophwydi â geiſient ei ddifetha ef.</p>
+               </q>
+               <q>
+                  <p>
+                     <label>Atteb.</label> 
+                     <hi>Amen.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>Cadw o Arglwydd enaid dy wâs, a gwared ef fel y gwaredaiſt dy Apoſtolion <hi>Paul</hi> a <hi>Barna<g ref="char:EOLhyphen"/>bas</hi>
+allan o garchar ar hanner nôs.</p>
+               </q>
+               <q>
+                  <p>
+                     <label>Atteb.</label> 
+                     <hi>Amen.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>Oddiwrth y tywyllwch eithaf.</p>
+                  <p>
+                     <hi>Gwared ef o Arglwydd.</hi>
+                  </p>
+                  <p>Oddiwrth felldith tragwyddol.</p>
+                  <p>
+                     <hi>Gwared ef o Arglwydd.</hi>
+                  </p>
+                  <p>Drwy dy enedigaeth.</p>
+                  <p>
+                     <hi>Gwared ef o Arglwydd.</hi>
+                  </p>
+                  <p>Drwy dy ympryd a'th weddiau.</p>
+                  <p>
+                     <hi>Gwared ef o Arglwydd.</hi>
+                  </p>
+                  <p>Drwy dy newyn a'th ſyched.</p>
+                  <p>
+                     <hi>Gwared ef o Arglwydd.</hi>
+                  </p>
+                  <p>Trwy dy groes a'th ddioddefaint.</p>
+                  <p>
+                     <hi>Gwared ef o Arglwydd.</hi>
+                  </p>
+                  <p>Trwy dy ddeſcynniad i vffern.</p>
+                  <p>
+                     <hi>O Arglwydd gwared ef.</hi>
+                  </p>
+                  <p>Trwy dy adgyfodfad o feirw y trydydd dydd.</p>
+                  <p>
+                     <hi>O Arglwydd gwared ef.</hi>
+                  </p>
+                  <p>Trwy dy eſcynniad ir nefoedd.</p>
+                  <p>
+                     <hi>O Arglwydd gwared ef.</hi>
+                  </p>
+                  <p>Trwy dy eiſteddiad ar ddeheu-law y Tâd mewn gogoniant.</p>
+                  <p>
+                     <hi>Amen.</hi>
+                  </p>
+                  <p>
+                     <pb facs="tcp:181016:17"/>ITh drugarog ddwylo di o nefol Dâd yr ydyn yn gorchymyn enaid dy waſanaithwr yn awr yn terfynu; Cydnebydd attolwg ddafad oth gorlan dy hun, oen o'th braidd dy hun: Derbyn ef ymreichiau dy drugaredd, gan wybod nas gall y peth a orchymynner i'th ymgeledd di fod yn golledig: O drugaroccaf iachawdwr derbyn attolygun i ti ei yſpryd ef mewn heddwch, <hi>Amen.</hi>
+                  </p>
+               </q>
+               <p rend="italic" ana="#role_rubric">Y dull a'r modd y bendithia yr Offeiriad y dyn Clâf pan fyddo ym mron terfynu.</p>
+               <!-- end of rubric -->
+               <q>
+                  <p>IEſu Griſt a'th ollyngo oddiwrth dy holl be<g ref="char:EOLhyphen"/>chodau.</p>
+               </q>
+               <q>
+                  <p>
+                     <label>Atteb.</label> 
+                     <hi>Amen.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>Ieſu Griſt â faddeuo yr holl ddrwg a wnae<g ref="char:EOLhyphen"/>thoſt drwy dy glywed, trwy dy weled, trwy dy gyffyrddiad, a thrwy dy archwaethiad pa fodd bynnac.</p>
+               </q>
+               <q>
+                  <p>
+                     <label>Atteb.</label> 
+                     <hi>Amen.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>Ieſu Griſt yr hwn â fu farw troſot a ddileo dy holl gamweddau.</p>
+               </q>
+               <q>
+                  <p>
+                     <label>Atteb.</label> 
+                     <hi>Amen.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>Ieſu Griſt yr hwn ſydd yn dy alw a'th dder<g ref="char:EOLhyphen"/>bynnio iw deyrnas nefol.</p>
+               </q>
+               <q>
+                  <p>
+                     <label>Atteb.</label> 
+                     <hi>Amen.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>Yr Arglwydd ath fendithio ac a'th gatwo:
+<pb facs="tcp:181016:17"/>
+llewyrched yr Arglwydd ei wyneb arnat: der<g ref="char:EOLhyphen"/>chafed yr Arglwydd ei wyneb arnat, a rhodded it adgyfodiad llawen i fywy tragwyddol.</p>
+               </q>
+               <q>
+                  <p>
+                     <label>Atteb.</label> 
+                     <hi>Amen.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>Ymado o enaid criſtianogawl yn enw Duw Tâd yr hwn a'th greawdd, Duw fâb yr hwn a'th brynnodd, Duw yr yſpryd glân yr hwn a'th ſancteiddiodd, vn Duw byw ac anfarwol, i'r hwn y byddo gogoniant yn oes oeſoedd, <hi>Amen.</hi>
+                  </p>
+               </q>
+            </div>
+            <div type="benediction">
+               <p rend="italic" ana="#role_rubric">Gweddi iw harfer pan fyddo Criſtion o ddyn ar der<g ref="char:EOLhyphen"/>fynu, neu euſys wedi terfynu.</p>
+               <!-- end of rubric -->
+               <q>
+                  <p>HOll-alluog a thragwyddol Dduw, yn gymmaint a rhyngu bodd iti gymme<g ref="char:EOLhyphen"/>ryd dy waſanaethwr hwn allan o dru<g ref="char:EOLhyphen"/>eni byd pechadurus i'th nefol deyrnas, bendi<g ref="char:EOLhyphen"/>thier o Arglwydd dy enw di byth ac yn dragy<g ref="char:EOLhyphen"/>wydd: pâr i ninnau, ni attolygwn iti yrhai y<g ref="char:EOLhyphen"/>dym etto yn aros ar y ddaiar fôd yn feddylgar o'n marwoldeb, fel y rhodiom o'th flaen di mewn cyfiawnder a ſancteiddrwydd holl ddyddiau ein bywyd: A phan ddêl amſer ein ymadawiad od<g ref="char:EOLhyphen"/>di ymma, y gallom orphywys ynot fel y mae ein gobaith fôd dy waſanaethwr hwn modd y gal<g ref="char:EOLhyphen"/>lon ni gyd â'n brawd hwn, a phaŵb eraill â y<g ref="char:EOLhyphen"/>madawſant ar bŷd mewn gwir ffydd yn dy enw<g ref="char:EOLhyphen"/>bendigedig gyd-lawenychu yn dy dragwyddol a byth-barhaus deyrnas, trwy Ieſu Griſt ein Arglwydd, <hi>Amen.</hi>
+                  </p>
+               </q>
+            </div>
+            <closer>Moliant i Dduw.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:181016:18"/>
+            <p>A Brmtywyd yn Llundain gan THOMAS HARPER. 1629.</p>
+            <pb facs="tcp:181016:18"/>
+            <pb facs="tcp:181016:19"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:181016:19"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
